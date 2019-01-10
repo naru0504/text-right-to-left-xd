@@ -12,7 +12,7 @@
     "height" : 96
   } ],
   "uiEntryPoints" : [ {
-    "label" : "Text Right to Left",
+    "label" : "Reverse Texts",
     "type" : "menu",
     "commandId" : "myPluginCommand"
   } ],
