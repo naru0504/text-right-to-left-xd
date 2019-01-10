@@ -4,7 +4,7 @@
     "app" : "XD",
     "minVersion" : "13.0.0"
   },
-  "description" : "Reverse text direction. This plugin mainly target Arabic, Hebrew, Persian, and Urdu.",
+  "description" : "Reverse text direction. This plugins help you easily create your own typography. It's time to dive to creating typography by Adobe XD",
   "id" : "4a8e9f97",
   "icons" : [ {
     "path" : "images/icon.png",
